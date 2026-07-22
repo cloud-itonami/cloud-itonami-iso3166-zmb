@@ -6,9 +6,11 @@
    (route to `cloud-itonami-M6910` or local counsel first if not).
 2. Register the client's intake: business type, target public function,
    prior filing history in Zambia if any.
-3. Run the advisor in read-only mode against the ZPPA e-GP system.
+3. Run the advisor in read-only mode against the ZPPA e-GP system
+   (`eprocure.zppa.org.zm/epps`).
 4. Compare the checklist against the client's current documentation
-   (PACRA certificate of registration/incorporation).
+   (PACRA certificate of registration/incorporation under the
+   Companies Act, 2017; ZRA TPIN).
 5. Enable gated filing-draft assistance once the Market-Entry Compliance
    Governor contract is trusted; actual submission always requires human
    sign-off.

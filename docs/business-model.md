@@ -22,15 +22,26 @@
 ## Offer
 
 - registration walkthrough for the ZPPA e-GP (Electronic Government
-  Procurement) system, operated by the Zambia Public Procurement
-  Authority (an independent statutory body established under the
-  Public Procurement Act No. 12 of 2008), integrated with IFMIS, PACRA
-  and ZRA
+  Procurement) system (`eprocure.zppa.org.zm/epps`), operated by the
+  Zambia Public Procurement Authority under the Public Procurement Act,
+  2020 (Act No. 8 of 2020 -- ZPPA's own site confirms this Act repealed
+  and replaced an earlier 2008 Act; ZPPA itself traces back further to
+  the Zambia National Tender Board Act, Chapter 394 of the Laws of
+  Zambia, 1982). e-GP registration requires a PACRA Certificate and a
+  ZRA TPIN (named directly on ZPPA's own FAQ page)
 - business/tax registration checklist: a certificate of registration/
   incorporation with the Patents and Companies Registration Agency
-  (PACRA), a precondition for ZPPA supplier eligibility
-- local-content / preferential-procurement navigation: Zambian
-  public-procurement preference provisions on qualifying tenders
+  (PACRA, administering the Companies Act, 2017, Act No. 10 of 2017)
+  plus a Taxpayer Identification Number (TPIN) with the Zambia Revenue
+  Authority (ZRA) -- both named directly as ZPPA's own e-GP supplier
+  registration preconditions
+- citizen-subcontracting mandate navigation: the Public Procurement
+  Regulations, 2022 (Regulation 20(1)) require a foreign bidder/
+  supplier whose procurement exceeds the Second Schedule's own
+  Simplified Bidding/Simplified Selection threshold (K1,000,000 for
+  goods/works/non-consulting services, K600,000 for consulting
+  services) to subcontract a minimum of 20% of the procurement's value
+  to citizen bidders/suppliers
 - ongoing regulatory-change monitoring subscription
 - compliance-audit export package for the client's own records
 
